@@ -1,0 +1,24 @@
+@import url(./reset.css);
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+.banner {
+    border: 1px solid #33A8DB;
+    width: 100vw;
+    height: 605px;
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.banner-content {
+  
+}
